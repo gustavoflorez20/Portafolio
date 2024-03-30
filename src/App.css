@@ -1,0 +1,59 @@
+/* Estilos para el cuerpo de la página */
+body {
+  margin: 0; /* Elimina el margen por defecto del cuerpo */
+  padding: 0; /* Elimina el relleno por defecto del cuerpo */
+  overflow-x: hidden; /* Evita el desplazamiento horizontal */
+}
+
+/* Estilos para el componente App */
+#root {
+  margin: 0; /* Elimina el margen */
+  padding: 0; /* Elimina el relleno */
+  width: 100vw; /* Ocupa el ancho completo de la ventana */
+  height: 100vh; /* Ocupa la altura completa de la ventana */
+  display: flex; /* Usa un diseño de caja flexible */
+  flex-direction: column; /* Alinea los elementos en una columna */
+  align-items: center; /* Centra los elementos horizontalmente */
+  justify-content: center; /* Centra los elementos verticalmente */
+}
+
+/* Estilos para el logotipo */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+/* Animación para girar el logotipo */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Estilos para los enlaces */
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Estilos para las tarjetas */
+.card {
+  padding: 2em;
+}
+
+/* Estilos para el texto "read-the-docs" */
+.read-the-docs {
+  color: #888;
+}

@@ -12,7 +12,7 @@ const Mediun = () => {
             <br />
             <br />
             
-         Un apasionado por el
+            Un apasionado por el
             desarrollo de software. Me siento atraído por el mundo de la
             tecnología y estoy emocionado por explorar nuevas oportunidades y
             desafíos en este campo. Tengo un gran interés en trabajar con código

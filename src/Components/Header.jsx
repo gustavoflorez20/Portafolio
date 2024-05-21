@@ -96,7 +96,7 @@ export default function Example() {
             Jr Web Developer
                         </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-            Soy un entusiasta junior en programación, apasionado por el
+            Soy un entusiasta de la programación, apasionado por el
             desarrollo de software. Me siento atraído por el mundo de la
             tecnología y estoy emocionado por explorar nuevas oportunidades y
             desafíos en este campo. Tengo un gran interés en trabajar con código

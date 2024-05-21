@@ -11,12 +11,12 @@ const Cv = () => {
             <figure className="mt-10">
               <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
                 <p>
-                  Soy una persona orientada al logro, buscando siempre
-                  oportunidades y desafíos laborales, Me gusta trabajar con
-                  números y me encanta el área de las telecomunicaciones, Soy
-                  responsable atento, poseo buena presentación personal y buen
-                  trato con clientes, Liderazgo y compañerismo, aprendizaje
-                  constante. Poseo coche y moto propios.
+                Luego mi máster en desarrollo web , estoy emocionado por comenzar mi carrera como
+desarrollador web. Me enfoque en JavaScript, HTML y CSS, y utilicé herramientas como
+Visual Studio Code y Git para colaborar en proyectos. Adquirí experiencia en la creación de
+páginas web interactivas con React, en el desarrollo de backend con Node.js y Express.js.
+También sobre bases de datos NoSQL como MongoDB . Estoy ansioso por aplicar mis
+habilidades en el mundo real y seguir creciendo profesionalmente.
                 </p>
               </blockquote>
               <figcaption className="mt-10">

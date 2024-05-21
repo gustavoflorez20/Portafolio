@@ -106,7 +106,7 @@ const Portfolio = () => {
             category="e-Commerce"
             title="Proyecto 3"
             button="Ver Detalles"
-            buttonHref="https://github.com/gustavoflorez20/tequetapas.es"
+            buttonHref="https://tequetapas-es.onrender.com"
             showCard={showCard}
           />
           {/* <PortfolioCard
@@ -122,7 +122,7 @@ const Portfolio = () => {
             category="Calculadora Js"
             title="Proyecto 2"
             button="Ver Detalles"
-            buttonHref="https://github.com/NFSD1023/reto-3-calculadora-js-gustavoflorez20"
+            buttonHref="https://calculadora-react-gvcm.onrender.com/"
             showCard={showCard}
           />
           {/* <PortfolioCard

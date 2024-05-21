@@ -189,7 +189,7 @@ const posts = [
     title: "Técnico en Mecánica Automotriz",
     href: "https://www.linkedin.com/in/gustavo-adolfo-fl%C3%B3rez-mier-y-ter%C3%A1n-016856169/",
     description:
-      "Fundamentos de programación y tecnologías modernas, simulando la realidad del trabajo de desarrollo full stack en una empresa. Programar en los lenguajes y frameworks más demandados, familiarizácion con el uso de todo el tech stack de desarrollo",
+      "El objetivo es comprender la importancia de los diferentes sistemas que conforman el vehículo, sus partes, su funcionamiento y variantes, sus tipos de fallas y averías, y cómo repararlas.",
     date: " 2007",
     datetime: "2024-03-30",
     category: { title: "Formacion Profesional", href: "https://www.atema.com.ve/mecanica.php" },
